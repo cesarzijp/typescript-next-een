@@ -31,3 +31,398 @@ body {
     text-wrap: balance;
   }
 }
+
+/*tweede kamer*/
+
+.zetel-bolletjes {
+  width: 500px;
+  height: 300px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
+
+.zetel-bolletjes > div {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  border-radius: 10px;
+  z-index: 10;
+  color: transparent;
+}
+
+div#zetel-0 {
+  top: 31px;
+  right: 50px;
+}
+
+div#zetel-1 {
+  top: 36px;
+  right: 68px;
+}
+
+div#zetel-2 {
+  top: 42px;
+  right: 89px;
+}
+
+div#zetel-3 {
+  top: 48px;
+  right: 108px;
+}
+
+div#zetel-4 {
+  top: 55px;
+  right: 127px;
+}
+
+div#zetel-5 {
+  top: 63px;
+  right: 147px;
+}
+
+div#zetel-6 {
+  top: 46px;
+  right: 50px;
+}
+
+div#zetel-7 {
+  top: 54px;
+  right: 69px;
+}
+
+div#zetel-8 {
+  top: 58px;
+  right: 89px;
+}
+
+div#zetel-9 {
+  top: 64px;
+  right: 108px;
+}
+
+div#zetel-10 {
+  top: 73px;
+  right: 127px;
+}
+
+div#zetel-11 {
+  top: 80px;
+  right: 147px;
+}
+
+div#zetel-12 {
+  top: 64px;
+  right: 49px;
+}
+
+div#zetel-13 {
+  top: 73px;
+  right: 69px;
+}
+
+div#zetel-14 {
+  top: 74px;
+  right: 89px;
+}
+
+div#zetel-15 {
+  top: 81px;
+  right: 108px;
+}
+
+div#zetel-16 {
+  top: 90px;
+  right: 128px;
+}
+
+div#zetel-17 {
+  top: 81px;
+  right: 49px;
+}
+
+div#zetel-18 {
+  top: 98px;
+  right: 50px;
+}
+
+div#zetel-19 {
+  top: 94px;
+  right: 69px;
+}
+
+div#zetel-20 {
+  top: 90px;
+  right: 89px;
+}
+
+div#zetel-21 {
+  top: 99px;
+  right: 108px;
+}
+
+div#zetel-22 {
+  top: 105px;
+  right: 89px;
+}
+
+div#zetel-23 {
+  top: 112px;
+  right: 69px;
+}
+
+div#zetel-24 {
+  top: 118px;
+  right: 50px;
+}
+
+div#zetel-25 {
+  top: 149px;
+  right: 64px;
+}
+
+div#zetel-26 {
+  top: 142px;
+  right: 82px;
+}
+
+div#zetel-27 {
+  top: 134px;
+  right: 102px;
+}
+
+div#zetel-28 {
+  top: 127px;
+  right: 122px;
+}
+
+div#zetel-29 {
+  top: 121px;
+  right: 141px;
+}
+
+div#zetel-30 {
+  top: 115px;
+  right: 161px;
+}
+
+div#zetel-31 {
+  top: 162px;
+  right: 74px;
+}
+
+div#zetel-32 {
+  top: 157px;
+  right: 94px;
+}
+
+div#zetel-33 {
+  top: 147px;
+  right: 113px;
+}
+
+div#zetel-34 {
+  top: 140px;
+  right: 131px;
+}
+
+div#zetel-35 {
+  top: 135px;
+  right: 152px;
+}
+
+div#zetel-36 {
+  top: 129px;
+  right: 171px;
+}
+
+div#zetel-37 {
+  top: 176px;
+  right: 85px;
+}
+
+div#zetel-38 {
+  top: 172px;
+  right: 107px;
+}
+
+div#zetel-39 {
+  top: 160px;
+  right: 123px;
+}
+
+div#zetel-40 {
+  top: 154px;
+  right: 142px;
+}
+
+div#zetel-41 {
+  top: 148px;
+  right: 163px;
+}
+
+div#zetel-42 {
+  top: 166px;
+  right: 152px;
+}
+
+div#zetel-43 {
+  top: 172px;
+  right: 133px;
+}
+
+div#zetel-44 {
+  top: 184px;
+  right: 142px;
+}
+
+div#zetel-45 {
+  top: 188px;
+  right: 118px;
+}
+
+div#zetel-46 {
+  top: 190px;
+  right: 96px;
+}
+
+div#zetel-47 {
+  top: 204px;
+  right: 107px;
+}
+
+div#zetel-48 {
+  top: 201px;
+  right: 130px;
+}
+
+div#zetel-49 {
+  top: 218px;
+  right: 118px;
+}
+
+div#zetel-50 {
+  top: 151px;
+  right: 208px;
+}
+
+div#zetel-51 {
+  top: 157px;
+  right: 223px;
+}
+
+div#zetel-52 {
+  top: 165px;
+  right: 193px;
+}
+
+div#zetel-53 {
+  top: 172px;
+  right: 210px;
+}
+
+div#zetel-54 {
+  top: 179px;
+  right: 225px;
+}
+
+div#zetel-55 {
+  top: 181px;
+  right: 180px;
+}
+
+div#zetel-56 {
+  top: 187px;
+  right: 194px;
+}
+
+div#zetel-57 {
+  top: 193px;
+  right: 211px;
+}
+
+div#zetel-58 {
+  top: 200px;
+  right: 226px;
+}
+
+div#zetel-59 {
+  top: 219px;
+  right: 226px;
+}
+
+div#zetel-60 {
+  top: 214px;
+  right: 211px;
+}
+
+div#zetel-61 {
+  top: 209px;
+  right: 197px;
+}
+
+div#zetel-62 {
+  top: 203px;
+  right: 182px;
+}
+
+div#zetel-63 {
+  top: 197px;
+  right: 166px;
+}
+
+div#zetel-64 {
+  top: 214px;
+  right: 154px;
+}
+
+div#zetel-65 {
+  top: 221px;
+  right: 171px;
+}
+
+div#zetel-66 {
+  top: 228px;
+  right: 190px;
+}
+
+div#zetel-67 {
+  top: 235px;
+  right: 207px;
+}
+
+div#zetel-68 {
+  top: 242px;
+  right: 224px;
+}
+
+div#zetel-69 {
+  top: 262px;
+  right: 222px;
+}
+
+div#zetel-70 {
+  top: 255px;
+  right: 205px;
+}
+
+div#zetel-71 {
+  top: 248px;
+  right: 188px;
+}
+
+div#zetel-72 {
+  top: 241px;
+  right: 172px;
+}
+
+div#zetel-73 {
+  top: 235px;
+  right: 155px;
+}
+
+div#zetel-74 {
+  top: 230px;
+  right: 141px;
+}
