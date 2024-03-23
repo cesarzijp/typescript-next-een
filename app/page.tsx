@@ -25,13 +25,18 @@ export default function Home() {
     },
     {
       naam: "Groen Links",
-      zetels: 12,
-      kleur: "#00cc99",
+      zetels: 15,
+      kleur: "#68edc6",
     },
     {
       naam: "NSC",
-      zetels: 25,
+      zetels: 22,
       kleur: "#6699ff",
+    },
+    {
+      naam: "PvdA",
+      zetels: 26,
+      kleur: "#f24c00",
     },
   ];
 

@@ -31,7 +31,7 @@ export default function PartijKnoppen({
       {partijData.map((partij) => (
         <button
           onClick={onPartijClick.bind(null, partij)}
-          className={`px-4 py-3 border-[1px] hover:bg-gray-900 hover:border-gray-600 border-gray-800 rounded-lg m-4 ${
+          className={`px-3 py-1 border-[1px] hover:bg-gray-900 hover:border-gray-600 border-gray-800 rounded-lg m-2 ${
             actievePartijen.includes(partij.naam)
               ? "bg-green-900 border-green-700 hover:bg-green-800 hover:border-green-600 "
               : ""
