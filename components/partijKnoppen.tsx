@@ -38,7 +38,8 @@ export default function PartijKnoppen({
           } `}
           key={partij.naam}
         >
-          {partij.naam}
+          {partij.naam}{" "}
+          <span className=' text-opacity-40 text-white'>({partij.zetels})</span>
         </button>
       ))}
     </div>

@@ -11,7 +11,6 @@ type zetelArrayType = { naam: string; kleur: string }[];
 export default function ZetelLayout({ zetelArray }: ZetelLayoutProps) {
   return (
     <>
-      <h2>Zetel array</h2>
       <div
         className='zetel-bolletjes'
         style={{ backgroundImage: `url(${tweedeKamerImg.src})` }}
